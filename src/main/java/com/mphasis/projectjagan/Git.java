@@ -8,7 +8,7 @@ public class Git {
     	 
      }
 	public static void main(String[] args) {
-         System.out.println("Git Commands");
+         System.out.println("phase1 updated one");
          add(10,5);
 	}
 
